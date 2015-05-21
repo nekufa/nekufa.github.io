@@ -8,7 +8,7 @@
 - Корректируем META-INF/application.xml вместо workbrain.war -> war
 - Комитим
 
-### Если мы обновляем наш customer
+### Если мы обновляем наш код
 - Собираем customer.jar
 - Обновляем lib/customer.jar
 - Комитим
